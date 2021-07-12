@@ -1,0 +1,21 @@
+body {
+    
+  margin: 0;
+  padding: 10px;
+  margin-top: 40px;
+}
+h1 {
+  color : #000000;
+  text-align : center;
+  font-family: "SIMPSON";
+}
+form {
+  width: 300px;
+  margin: 0 auto;
+}
+.wrapper{
+  border:solid;
+  background: url(https://coolbackgrounds.io/images/backgrounds/index/ranger-4df6c1b6.png)repeat  center;
+  margin-top: 50px;
+  border-radius: 10px;
+}
